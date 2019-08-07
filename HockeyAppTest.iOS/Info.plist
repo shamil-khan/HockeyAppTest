@@ -21,13 +21,13 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>MinimumOSVersion</key>
-	<string>8.0</string>
+	<string>9.3</string>
 	<key>CFBundleDisplayName</key>
 	<string>HockeyAppTest</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.apex.live</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.001</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>CFBundleName</key>

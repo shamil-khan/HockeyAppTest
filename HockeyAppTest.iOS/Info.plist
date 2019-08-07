@@ -25,7 +25,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>HockeyAppTest</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apex.live.HockeyAppTest</string>
+	<string>com.apex.live</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>UILaunchStoryboardName</key>

@@ -13,7 +13,7 @@
     </ContentPage.ToolbarItems>
 
     <StackLayout>
-        <Label Text="HockeyApp Test - version 1.001" TextColor="Blue" />
+        <Label Text="HockeyApp Test - version 1.002 (copied from apexchat)" TextColor="Blue" />
         <ListView x:Name="ItemsListView"
                 ItemsSource="{Binding Items}"
                 VerticalOptions="FillAndExpand"

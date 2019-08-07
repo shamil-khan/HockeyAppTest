@@ -24,7 +24,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.apex.live</string>
 	<key>CFBundleVersion</key>
-	<string>1.003</string>
+	<string>1.004</string>
 	<key>NSCameraUsageDescription</key>
 	<string>This app needs access to the camera to take photos.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
@@ -131,6 +131,6 @@
 		<string>remote-notification</string>
 	</array>
 	<key>CFBundleShortVersionString</key>
-	<string>1.003</string>
+	<string>1.004</string>
 </dict>
 </plist>
